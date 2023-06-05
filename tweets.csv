@@ -1,2 +1,20 @@
 Comments
+"The whole construction of ""Elements"" of Euclid is carefully designed to proceed from the more intuitive and obvious to the less obvious in a gradual manner, and to chose as clear and obvious postulates and axioms as possible. This is also the method of Descartes."
+"Right. Dodgson's axiom is quite clever but doesn't meet that standard. And of course, already in Dodgson's time, the view as to what an axiom ""really is"" was changing. His views (as far as I know) didn't really change. MacColl's did, apparently, later in his life."
+So the correction omits the hyperbolic case where the axiom won’t hold?
+"Yep. 
 
+To me, what's interesting about it is that it shows that Dodgson was very much aware of what happens in hyperbolic geometry. He just... didn't like it!"
+"my notation for categories parameterized by an object S is Scategory (Salg, Smod, kvec). So spaces over S is Stop xD."
+Sits Shammer Stime
+Oh. So is this alternative meant to give hyperbolic plane geometry? I interpreted the wording to mean it would result in the same Euclidean plane geometry.
+"It does give Euclidean geometry, Dodgson didn't ""believe"" in hyperbolic geometry. In hyperbolic geometry, if you make the circle sufficiently large, the area of a segment will be more than the area of the hexagon. Dodgson's axiom prevents that, hence gives Euclidean geometry."
+I’m assuming it has to do with the polygons having some sides which are parallel?
+"No, any polygon will do. It has do with the fact that in hyperbolic geometry, there is an upper bound on the areas of triangles."
+"""Segment"" classically means the region bounded by an arc of the circle and a chord, which in this case is one of the sides of the polygon. ""Greater than"" is in the same sense that Euclid uses it, which we to interpret to mean in area."
+"In the third edition, Dodgson changed the axiom, replacing the hexagon with a tetragon (square)."
+"The change was Dodgson's response to (anonymous) reviews of his book by mathematician/logician/novelist Hugh MacColl. See
+
+F. F. Abeles, A. Moktefi,
+Hugh MacColl and Lewis Carroll: Crosscurrents in geometry and logic,
+Philosophia Scientiæ 2011/1 (15-1), pp 55-76"
