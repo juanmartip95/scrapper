@@ -1,0 +1,54 @@
+[33mcommit d192dd7b7d2dd77d1db73ec077b0ae89b1e53ffe[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Tue Jun 20 09:30:27 2023 +0200
+
+    no new files
+
+[33mcommit 5e3b0cfbf29c7a4d99def862b1c3d2a69b99029c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Sat Jun 10 09:26:25 2023 +0200
+
+    datefixedon the csv
+
+[33mcommit b1c8eb37b8dabd1012fb34a582467741902e1200[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Wed Jun 7 07:56:05 2023 +0200
+
+    it works, this time we got 113 tweets and went as far back as 12th march,10scrolls=410pic.
+    noURLnopasswords
+
+[33mcommit 809e395cf98ee175cc43cdb94ed42c74f8f88aa5[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Tue Jun 6 09:27:19 2023 +0200
+
+    it works, this time we got 113 tweets and went as far back as 12th march,10scrolls=410pic
+
+[33mcommit 11bf9ed65438a9a8089bbd3245a155169299731b[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Mon Jun 5 22:10:00 2023 +0200
+
+    it works, this time we got 113 tweets and went as far back as 12th march
+
+[33mcommit c8cfcd835883098368f7c2c60f1e1514e7d34a7d[m[33m ([m[1;32mlazyscrolling[m[33m)[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Mon Jun 5 22:02:57 2023 +0200
+
+    it works, but now only scrapes the last 30 tweets
+
+[33mcommit 25745ed0370d97b0b8d2fa1680188b1a520beab1[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Mon Jun 5 21:47:04 2023 +0200
+
+    it works, but only scrapes the last 15 tweets
+
+[33mcommit f6462912b9f4daf4d2414d0399d8ac168b201a05[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Mon Jun 5 15:38:35 2023 +0200
+
+    first commit
+
+[33mcommit ac2bd1485c20e0bec58f7346be4b7e2907723283[m
+Author: Juan Martin Perez Bernal <perezbernaljuanmartin@gmail.com>
+Date:   Mon Jun 5 14:35:55 2023 +0200
+
+    first commit
